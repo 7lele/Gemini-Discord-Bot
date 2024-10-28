@@ -13,3 +13,4 @@ Discord Bot
 
 
 By 7lele 
+  GNU GENERAL PUBLIC LICENSE
